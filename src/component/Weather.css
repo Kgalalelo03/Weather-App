@@ -1,0 +1,60 @@
+
+
+.container {
+    /*max-width: 400px;*/
+    width: auto;
+    height: auto;
+    margin:  auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    background-image: url('https://images.hdqwalls.com/download/clouds-summer-weather-5k-1b-1920x1080.jpg');
+    background-size: cover;
+  }
+  
+  .form {
+    margin-bottom: 20px;
+  }
+  
+  .form input[type="text"] {
+    width: calc(100% - 80px);
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .form button {
+    padding: 8px 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .info {
+    margin-top: 20px;
+  }
+  
+  .info h2 {
+    margin-bottom: 10px;
+    color: black;
+  }
+  
+  .info p {
+    margin: 5px 0;
+    color: black;
+  }
+  
+
+  
+  /*.temperature {
+    color: #ff5733; 
+  }
+  
+.description {
+    color: #007bff; 
+  }
+  */
+  
